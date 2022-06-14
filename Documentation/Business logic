@@ -1,0 +1,7 @@
+Business Logic for Service with a smile
+
+1) Login name no more than 20 characters
+2) Password no longer than 20 characters
+3) Only letters and numbers when creating Login name.
+4) Only specific characters when choosing a password: alphabetic, numeric, specific characters
+5) 3 choices of maids to assist customers
