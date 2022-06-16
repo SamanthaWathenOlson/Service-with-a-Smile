@@ -3,13 +3,22 @@ Test Plan
 Technologies Used
 Pycharm IDE
 Python
+Flask
+Selenium
 
 Deadlines Schedules
 Friday, 27th, - Have entities finished - finished on 6/14
+DOA will be started by 6/18/22
 
 Testing
 Testing should include:
-    One positive test
+    One positive test:
+        test for login
+        test for insert
+        test for select
+        test for delete
+    tests should be unit tests
     One negative test
+
 Testing should not include:
 

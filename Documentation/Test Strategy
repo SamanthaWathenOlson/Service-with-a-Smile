@@ -1,0 +1,13 @@
+API Endpoints
+    Api will be RESTful
+    API will be written in Python using Flask
+
+Workflow guidelines:
+1) Version control will be controlled using Git Hub
+2) Each contributor will be workng from thier own branch using their name to addtheir work.
+3) Leads will deal with adding confirmed work and merge with main branch on github, with the
+    approval of both lead and main branch lead.
+4) Spread sheet for tracking work will be used to keep track of work done on Branches.
+
+Roles and Responsibilities
+Project developer - Samantha
