@@ -8,3 +8,8 @@ Deadlines Schedules
 Friday, 27th, - Have entities finished
 
 Testing
+Testing should include:
+    One positive test
+    One negative test
+Testing should not include:
+
