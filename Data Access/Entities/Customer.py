@@ -1,9 +1,14 @@
 class Customer:
 
-    def __init__(self, maid_id, customer_name, customer_id):
+    def __init__(self, maid_id, name_maid, customer_name, customer_id):
         self.maid_id = maid_id
+        self.name_maid = name_maid
         self.customer_name = customer_name
         self.customer_id = customer_id
+
+    def name_maid(self):
+        print("Please input my new name: " + name_maid)
+
 
     
 
