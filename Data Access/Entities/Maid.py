@@ -4,3 +4,7 @@ class Maid:
         self.maid_id = maid_id
         self.maid_name = maid_name
         self.customer_id = customer_id
+
+    def my funct(self):
+        print("Hello, master. My name is" + maid.name)
+
