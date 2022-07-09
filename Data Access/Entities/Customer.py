@@ -9,6 +9,8 @@ class Customer:
     def name_maid(self):
         print("Please input my new name: " + name_maid)
 
+    def findCustomerId():
+        print();
 
     
 
