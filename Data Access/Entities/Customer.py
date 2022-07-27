@@ -10,7 +10,7 @@ class Customer:
         print("Please input my new name: " + name_maid)
 
     def findCustomerId():
-        print(CustomerId);
+        print(customer_id);
 
     
 
