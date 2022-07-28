@@ -11,6 +11,10 @@ class Customer:
 
     def findCustomerId():
         print(customer_id);
+        
+    def findMaid_id():
+        
+        print()
 
     
 
