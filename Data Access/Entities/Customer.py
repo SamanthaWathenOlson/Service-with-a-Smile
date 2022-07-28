@@ -5,16 +5,24 @@ class Customer:
         self.name_maid = name_maid
         self.customer_name = customer_name
         self.customer_id = customer_id
-
+    
+    def findMaid_id():
+        
+        print()
+    
     def name_maid(self):
         print("Please input my new name: " + name_maid)
 
     def findCustomerId():
+        
         print(customer_id);
+    
+    def findCustomerName():
         
-    def findMaid_id():
+        print(customer_name)
         
-        print()
+    
+    
 
     
 
