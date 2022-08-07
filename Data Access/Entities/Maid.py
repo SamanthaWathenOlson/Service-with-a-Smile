@@ -1,6 +1,6 @@
 class Maid:
 
-    def __init__(self, maid_id, maid_name, my_funct, change_dress, customer_id, read_letter, write_letter, send_letter, star_ letter, message_delete):
+    def __init__(self, maid_id, maid_name, my_funct, change_dress, customer_id, read_letter, write_letter, send_letter, star_ letter, message_delete, create_schedule):
         self.maid_id = maid_id
         self.maid_name = maid_name
         self.my_funct = my_funct
@@ -11,6 +11,7 @@ class Maid:
         self.send_letter = send_letter
         self.star_letter = star_letter
         self.message_delete = message_delete
+        self.create_schedule = create_schedule
 
     def getMaidId():
         pass
