@@ -1,1 +1,6 @@
-Class Schedule 
+class Schedule:
+
+    def __init__(self, design_schedule, delete_schedule, update_schedule)
+
+      self.design_schedule = design_schedule
+
