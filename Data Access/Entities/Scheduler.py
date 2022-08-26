@@ -5,5 +5,13 @@ class Schedule:
       self.design_schedule = design_schedule
       self.delete_schedule = delete_schedule
       self.update_schedule = udapte_schedule
+        
+   def design_schdule()
+        pass
+    
+   def delete_schedule()
+        pass
       
+   def update_schedule()
+        pass
 
