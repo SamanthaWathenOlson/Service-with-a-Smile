@@ -1,14 +1,14 @@
 class Customer:
 
-    def __init__(self, maid_id, maid_name, customer_name, customer_id):
+    def __init__(self, maid_id, maid_name,changde_dress, customer_name, customer_id):
         self.maid_id = maid_id
         self.name_maid = name_maid
+        self.change_dress = change_dress
         self.customer_name = customer_name
         self.customer_id = customer_id
     
     def findMaid_id():
-        
-        print()
+        pass
    
     def findMaidName():
         pass
