@@ -7,5 +7,5 @@ class Message:
         self.star_letter = star_letter
         self.message_delete = message_delete
 
-    
+    def
 
