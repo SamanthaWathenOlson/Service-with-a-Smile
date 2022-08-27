@@ -5,12 +5,12 @@ class Schedule:
       self.delete_schedule = delete_schedule
       self.update_schedule = update_schedule
         
-   def design_schedule():
+   def design_schedule(self):
         pass
     
-   def delete_schedule():
+   def delete_schedule(self):
         pass
       
-   def update_schedule():
+   def update_schedule(self):
         pass
 

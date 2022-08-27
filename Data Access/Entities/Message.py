@@ -7,5 +7,18 @@ class Message:
         self.star_letter = star_letter
         self.message_delete = message_delete
 
-    def
+    def readLetter(self):  #This willread the letter to the customer.
+        print("Your message says " + read_letter)
+
+    def writeLetter(self):  #This will write a letter to the recipient.
+        pass
+
+    def sendLetter(self):  #This will send the message to the person it is addressed too.
+        print("May I send this message to " + customer_name)
+
+    def starLetter(self):  #This will place message in an archive.
+        print("Shall I place a star on this message?")
+
+    def message_delete(self):  #This will delete the message.
+        pass
 
