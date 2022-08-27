@@ -7,25 +7,25 @@ class Customer:
         self.customer_name = customer_name
         self.customer_id = customer_id
     
-    def findMaidId(self):
+    def find_maid_id(self):
         return {
             "maidId": self.maid_id
                  }
    
-    def findMaidName(self):
+    def find_maid_name(self):
         return {
             "maidName": self.maid_name
         }
     
-    def maidName(self):
-        print("Please input my new name: " + maid_name)
+    def create_maid_name(self):
+        print("Please input my new name: " + self.maid_name)
 
-    def findCustomerId(self):
+    def find_customer_id(self):
         return {
             "customerId": self.customer_id
         }
 
-    def findCustomerName():
+    def find_customer_name(self):
         return {
             "customerName": self.customer_name
         }
